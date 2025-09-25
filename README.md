@@ -5,5 +5,16 @@ Independent Anime Game Launcher for Berkeley Software Distrubition and Qunics in
 | FreeBSD | 🛠️ |
 | QUNICS | 🛠️ |
 
+## Install
+**BSD**
+```sh
+```
+
+**QUNICS**
+```
+sudo qyzyl repo-add ""
+sudo qyzyl install daemonanimegamelauncher 
+```
+
 # Inspiration
 * [An Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher)
