@@ -8,8 +8,8 @@ Independent Anime Game Launcher for Berkeley Software Distrubition and Qunics in
 ## Install
 **BSD**
 ```sh
+###
 ```
-
 **QUNICS**
 ```
 sudo qyzyl repo-add ""
