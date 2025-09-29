@@ -3,7 +3,7 @@ Independent Anime Game Launcher for Berkeley Software Distrubition and Qunics in
 | Operating System | Status |
 |------------------|--------|
 | FreeBSD | 🛠️ |
-| QUNICS | 🛠️ |
+| Qyzyl GNU/Qunics | 🛠️ |
 
 ## Install
 **BSD**
